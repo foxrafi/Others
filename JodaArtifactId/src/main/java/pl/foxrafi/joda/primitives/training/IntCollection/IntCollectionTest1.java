@@ -1,4 +1,4 @@
-package pl.joda.primitives.training;
+package pl.foxrafi.joda.primitives.training.IntCollection;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -7,9 +7,9 @@ import org.apache.log4j.Logger;
 import org.joda.primitives.collection.IntCollection;
 import org.joda.primitives.collection.impl.ArrayIntCollection;
 
-public class IntCollectionTest {	
+public class IntCollectionTest1 {	
 
-	private static final Logger logger = LogManager.getLogger(IntCollectionTest.class);
+	private static final Logger logger = LogManager.getLogger(IntCollectionTest1.class);
 
 	public static void main(String[] args) {
 		IntCollection ic = new ArrayIntCollection();
