@@ -1,0 +1,55 @@
+INFO main Test - message
+INFO main Test - Simple message by means of log4j
+INFO main Test - Simple message by means of log4j
+INFO main Test - Simple message by means of log4j
+INFO main Test - Simple message by means of log4j
+INFO main Test - An object of IntCollection  was created.
+INFO main Test - Adding an array of 2 int values the main collection.
+INFO main Test - An object of IntCollection  was created.
+INFO main Test - Adding an array of 2 int values the main collection.
+INFO main Test - An object of IntCollection  was created.
+INFO main Test - Adding an array of 2 int values the main collection.
+INFO main Test - An object of IntCollection  was created.
+INFO main Test - Adding an array of 2 int values the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - An object of IntCollection  was created.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding an array of 2 int values the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding an int value to the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding one Integer object to the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding an ArrayList to the main collection
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding a range of int values to the main collection
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding another IntCollection to the main collection
+INFO main pl.joda.primitives.training.IntCollectionTest - An object of IntCollection  was created.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding an array of 2 int values the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding an int value to the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding one Integer object to the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding an ArrayList to the main collection
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding a range of int values to the main collection
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding another IntCollection to the main collection
+INFO main pl.joda.primitives.training.IntCollectionTest - An object of IntCollection  was created.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding an array of 2 int values the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding an int value to the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding one Integer object to the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding an ArrayList to the main collection
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding a range of int values to the main collection
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding another IntCollection to the main collection
+INFO main pl.joda.primitives.training.IntCollectionTest - An object of IntCollection  was created.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding an array of 2 int values the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding an int value to the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding one Integer object to the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding an ArrayList to the main collection
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding a range of int values to the main collection
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding another IntCollection to the main collection
+INFO main pl.joda.primitives.training.IntCollectionTest - An object of IntCollection  was created.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding an array of 2 int values the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding an int value to the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding one Integer object to the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding an ArrayList to the main collection
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding a range of int values to the main collection
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding another IntCollection to the main collection
+INFO main pl.joda.primitives.training.IntCollectionTest - An object of IntCollection  was created.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding an array of 2 int values the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding an int value to the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding one Integer object to the main collection.
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding an ArrayList to the main collection
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding a range of int values to the main collection
+INFO main pl.joda.primitives.training.IntCollectionTest - Adding another IntCollection to the main collection
