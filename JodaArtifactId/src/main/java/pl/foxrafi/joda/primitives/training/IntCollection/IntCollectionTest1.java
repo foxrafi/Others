@@ -1,4 +1,5 @@
 package pl.foxrafi.joda.primitives.training.IntCollection;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -46,5 +47,4 @@ public class IntCollectionTest1 {
 		ic2.addAll(700,710);		
 		ic.addAll(ic2);
 	}
-
 }
