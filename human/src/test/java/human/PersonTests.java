@@ -22,7 +22,11 @@ public class PersonTests {
 		given(person.getLastname()).willReturn("Sojka");  // metre
 		given(person.getGender()).willReturn("Male");
 		given(person.getHeight()).willReturn(1.85);  // metre
-		given(person.getWeight()).willReturn(65.0);  // kilogram		
+		given(person.getWeight()).willReturn(65.0);  // kilogram
 	}
-	
+
+	@Test
+	public void test2(){
+		//please add another test in this place
+	}
 }
